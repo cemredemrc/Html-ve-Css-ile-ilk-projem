@@ -1,5 +1,6 @@
-# Html ve Css ile ilk projem
- Dalışla ilgili bilgiler içeren site
+Dalışla ilgili bilgiler içeren site
+<br>
+<b>used techs:</b> HTML&CSS
 
 ![Ekran Görüntüsü (171)](https://github.com/user-attachments/assets/dc2ac577-a99c-4d65-a7db-c94f8eca95b7)
 ![Ekran Görüntüsü (172)](https://github.com/user-attachments/assets/e610c970-2af2-498b-92a6-67368c4f2307)
