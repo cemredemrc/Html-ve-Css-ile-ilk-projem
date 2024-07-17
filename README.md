@@ -1,5 +1,7 @@
-Dalışla ilgili bilgiler içeren site
-<br>
+# Dalış Bilgileri Sitesi
+<b>Proje Hakkında:</b><br>
+Bu proje, dalış sporu ile ilgilenenler için kapsamlı bilgiler sunan bir web sitesi içerir. Dalışa yeni başlayanlardan deneyimli dalgıçlara kadar herkesin faydalanabileceği rehberler ve ipuçları sunmaktadır.
+<br><br>
 <b>used techs:</b> HTML&CSS
 
 ![Ekran Görüntüsü (171)](https://github.com/user-attachments/assets/dc2ac577-a99c-4d65-a7db-c94f8eca95b7)
